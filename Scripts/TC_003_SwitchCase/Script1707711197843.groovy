@@ -27,6 +27,8 @@ WebUI.click(findTestObject('Object Repository/ContactUs/Page_Advantage Shopping/
 
 def selected = WebUI.verifyElementClickable(findTestObject('Object Repository/ContactUs/Page_Advantage Shopping/selected'))
 
+//WebUI.delay(2)
+
 switch (selected) {
 	case selected = 'LaptopA':
     	WebUI.selectOptionByValue(findTestObject('Object Repository/ContactUs/Page_Advantage Shopping/select_Select CategoryLaptopsHeadphonesTabl_1ef56f'), 
