@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_003_SwitchCase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7b7e3f1-5d6c-4f1b-b1eb-f54a6c982bc9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>83e04797-3a34-4f21-974f-505ab258c891</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>357bf938-3721-4891-b672-21d9c95a9c4f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0a75d49b-96d7-48e2-b018-bc8069af5b3c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'hana@gmail.com'</defaultValue>
+      <description></description>
+      <id>83e04797-3a34-4f21-974f-505ab258c891</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Memberi Makna Indonesia'</defaultValue>
+      <description></description>
+      <id>357bf938-3721-4891-b672-21d9c95a9c4f</id>
+      <masked>false</masked>
+      <name>subject</name>
+   </variable>
+   <variable>
+      <defaultValue>'LaptopA'</defaultValue>
+      <description></description>
+      <id>0a75d49b-96d7-48e2-b018-bc8069af5b3c</id>
+      <masked>false</masked>
+      <name>selected</name>
+   </variable>
+</TestCaseEntity>
